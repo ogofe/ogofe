@@ -10,5 +10,4 @@ Including Express Js, Django, Flask, Next.Js, React and React Native, and Svelte
 - 🤔 I’m looking for help with my current project 
 - 💬 Ask me about Nigerian Developer Community and our Food
 - 📫 How to reach me: <a href="mailto:7thogofe@gmail.com"> Write to me @ 7thogofe@gmail.com </a>
-- 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love memes 😂, who doesn't? 
