@@ -1,13 +1,25 @@
-### Hi there 👋
-I'm Joel Tanko, I'm a Fullstack Developer, Cloud ☁ Architect, and a technical writer from Nigeria.
+### Welcome To My Github
 
-I'm a Backend heavy developer, and I worked with quite a number of Frameworks for Fullstack development 
-Including Express Js, Django, Flask, Next.Js, React and React Native, and Svelte. 
 
-- 🔭 I’m currently working on an online food Delivery 🚚 service tailored for African eateries 
-- 🌱 I’m currently learning TensorFlow
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with my current project 
-- 💬 Ask me about Nigerian Developer Community and our Food
-- 📫 How to reach me: <a href="mailto:7thogofe@gmail.com"> Write to me @ 7thogofe@gmail.com </a>
-- ⚡ Fun fact: I love memes 😂, who doesn't? 
+## About Me
+My name is Joel Ogofe Tanko, I'm a Fullstack Developer, Cloud ☁ Architect, and Technical Writer. I'm proudly Nigerian 🇳🇬.
+**Tech Stack**
+- Django, Flask
+- NodeJS, React, Express, Svelte
+- MongoDB
+- PostgreSQL
+
+**Languages**
+- Python
+- JavaScript
+- TypeScript
+- Powershell
+
+**Contributions**
+
+## Projects
+- 🔭 I’m currently working on an online food Delivery 🚚 service tailored for African eateries
+## My Socials
+- [Email](mailto:7thogofe@gmail.com) 
+- [Medium](https://medium.com/jtogofe)
+- [LinkedIn](https://linkedin.com/in/jtogofe)
