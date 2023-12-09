@@ -3,6 +3,7 @@
 
 ## About Me
 My name is Joel Ogofe Tanko, I'm a Fullstack Developer, Cloud ☁ Architect, and Technical Writer. I'm proudly Nigerian 🇳🇬.
+
 **Tech Stack**
 - Django, Flask
 - NodeJS, React, Express, Svelte
