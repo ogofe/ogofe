@@ -18,8 +18,13 @@ My name is Joel Ogofe Tanko, I'm a Fullstack Developer, Cloud ☁ Architect, and
 
 **Contributions**
 
-## Projects
-- 🔭 I’m currently working on an online food Delivery 🚚 service tailored for African eateries
+## Projects I'm Working On
+![Progress](https://progress-bar.dev/42)
+- A Platform for African eateries/restaurants to power their online sales and deliveries through multiple channels, from one interface. (private repo) 
+
+![Progress](https://progress-bar.dev/85)
+- Beer InventoryManagement for University of Beer USA (private repo) 
+
 ## My Socials
 - [Email](mailto:7thogofe@gmail.com) 
 - [Medium](https://medium.com/jtogofe)
