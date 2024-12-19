@@ -36,7 +36,7 @@ I'm proudly Nigerian 🇳🇬.
   
 
 **Contributions**
-
+ ![Snake animation](https://github.com/ogofe/ogofe/blob/output/github-contribution-grid-snake.svg)
 
 ______________________________________________________________________________________________________
 
