@@ -15,9 +15,12 @@ I'm proudly Nigerian 🇳🇬. ![Profile view counter on GitHub](https://komarev
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogofe&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ogofe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
+
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ 
  
  ## Skills
-<div style="display: inline_block; gap: 15px;"><br>
+<div style="display: flex; justify-content: space-between; gap: 15px;"><br>
   <img height="40" align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -51,8 +54,5 @@ I'm proudly Nigerian 🇳🇬. ![Profile view counter on GitHub](https://komarev
   <a href = "mailto: 7thogofe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
- 
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
