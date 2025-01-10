@@ -1,10 +1,9 @@
 ## Hi, I am Joel Tanko! 
-</br>
+I'm a Computer Science major at the Air Force Institute of Technology, Nigeria. I'm a Fullstack Developer with 4+ years of active development experience, I've written articles, given talks, and taught students about web technologies and building software.
 
-## About Me
-I'm Joel, a Computer Science major at the Air Force Institute of Technology, Nigeria.
-I'm a Fullstack Developer with 4+ years of active development experience, I've written articles, given talks, and taught students about web technologies and building software.
-When I'm not writing code or debugging, I write articles on Programming and Tech on Medium and other blogs, I'm also a publisher for the Medium publication - Javascript In plain English, and my articles and guides have helped over 15k+ devs in their web development journey and sits on the first page of Google search results. Being a Technical Writer and a Fullstack dev has connected me with people and opportunities that I never thought I'd achieve, and while I took a break from writing on Medium I've worked on some interesting projects, tinkered with new technologies and even old ones, built a canvas editing tool with Vue.JS and Fabric.js, built a Loom clone with WebRTC, played around with Web3 and ethers.js and picked up Java as a new language 😅.
+When I'm not writing code or debugging, I write articles on Programming and Tech on Medium and other blogs, I'm also a publisher for the Medium publication - Javascript In plain English, and my articles and guides have helped over 15k+ devs in their web development journey and sits on the first page of Google search results.
+
+Being a Technical Writer and a Fullstack dev has connected me with people and opportunities that I never thought I'd achieve, and while I took a break from writing on Medium I've worked on some interesting projects, tinkered with new technologies and even old ones, built a canvas editing tool with Vue.JS and Fabric.js, built a Loom clone with WebRTC, played around with Web3 and ethers.js and picked up Java as a new language 😅.
 
 I'm proudly Nigerian 🇳🇬. ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ogofe)
 
@@ -20,7 +19,7 @@ I'm proudly Nigerian 🇳🇬. ![Profile view counter on GitHub](https://komarev
 
  
  
- ## Skills
+ ## Skills / Languages
 <div style="display: flex; justify-content: space-between; gap: 15px;"><br>
   <img height="40" align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
