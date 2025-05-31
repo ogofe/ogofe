@@ -11,8 +11,8 @@ I'm proudly Nigerian 🇳🇬. ![Profile view counter on GitHub](https://komarev
 
  <div>
   <a href="https://github.com/ogofe">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogofe&layout=compact&langs_count=25&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ogofe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogofe&layout=compact&langs_count=35&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ogofe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ogofe/ogofe/output/github-contribution-grid-snake-dark.svg" />
