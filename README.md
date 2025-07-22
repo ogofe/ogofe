@@ -1,11 +1,13 @@
-## Hi, I am Joel Tanko! 
+# Hi, I am Joel Tanko!  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ogofe)
+
+## About Me 
 I'm a Computer Science major at the Air Force Institute of Technology, Nigeria. I'm a Fullstack Developer with 4+ years of active development experience, I've written articles, given talks, and taught students about web technologies and building software.
+I'm proudly Nigerian 🇳🇬.
+<br />
 
-When I'm not writing code or debugging, I write articles on Programming and Tech on Medium and other blogs, I'm also a publisher for the Medium publication - Javascript In plain English, and my articles and guides have helped over 15k+ devs in their web development journey and sits on the first page of Google search results.
-
-Being a Technical Writer and a Fullstack dev has connected me with people and opportunities that I never thought I'd achieve, and while I took a break from writing on Medium I've worked on some interesting projects, tinkered with new technologies and even old ones, built a canvas editing tool with Vue.JS and Fabric.js, built a Loom clone with WebRTC, played around with Web3 and ethers.js and picked up Java as a new language 😅.
-
-I'm proudly Nigerian 🇳🇬. ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ogofe)
+## What I've Built
+- Django Palette - a Django Admin Interface with tools to create custom composable UI, and the power of reusable component.
+- Vue-canva - A HTML Canvas editing tool built with Vue.js and Fabric.js (I built this as a sideproject for a business use case, and I'm currently working on making it an npm package for image editing).
 
 <br />
 
@@ -17,7 +19,6 @@ I'm proudly Nigerian 🇳🇬. ![Profile view counter on GitHub](https://komarev
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ogofe/ogofe/output/github-contribution-grid-snake-dark.svg" />
 
- 
  
  ## Skills / Languages
 <div style="display: flex; justify-content: flex-start; gap: 15px;">
