@@ -7,7 +7,10 @@ I'm proudly Nigerian 🇳🇬.
 
 ## What I've Built
 - Django Palette [![PyPI Downloads](https://static.pepy.tech/personalized-badge/dj-palette?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/dj-palette) - a Django Admin Interface with tools to create custom composable UI, and the power of reusable component.
-- Vue-canva - A HTML Canvas editing tool built with Vue.js and Fabric.js (I built this as a sideproject for a business use case, and I'm currently working on making it an npm package for image editing).
+
+- Vue-canva - A lightweight, Vue-powered canvas editor — designed to bring rich drawing, text, shape and image manipulation directly into your Vue applications.
+
+
 
 <br />
 
