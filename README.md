@@ -1,5 +1,17 @@
 # Hi there, I'm Joel Tanko 👋
 
+<p align="center">
+
+<a href="https://www.kaggle.com/learn/certification/joeltanko/intro-to-machine-learning">
+<img src="https://img.shields.io/badge/Kaggle-Intro%20to%20Machine%20Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Open%20Source-Maintainer-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-4%2B%20Years-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Fullstack-Developer-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge"/>
+
+</p>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Engineer;Open+Source+Maintainer;Fullstack+Developer;AI+Enthusiast;Computer+Science+Student)](https://git.io/typing-svg)
@@ -182,43 +194,15 @@ Over the years, I have:
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash,c" />
 </p>
 
----
 
-## Frontend
+
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vue,react,vite" />
-</p>
-
----
-
-## Backend
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=django,nodejs" />
-</p>
-
----
-
-## Databases
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
-</p>
-
----
-
-## DevOps & Tools
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode" />
-</p>
-
----
-
-## Cloud & Platforms
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify" />
 </p>
 
