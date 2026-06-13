@@ -260,7 +260,7 @@ export default function Home() {
             <span className="grid h-9 w-9 place-items-center rounded-lg bg-[#17140f] text-sm text-[#f7f3ea]">
               JO
             </span>
-            <span className="hidden sm:inline">Joel</span>
+            <span className="hidden sm:inline">Joel Tanko</span>
           </a>
           <div className="hidden items-center gap-2 md:flex">
             {["work", "skills", "process", "contact"].map((item) => (
